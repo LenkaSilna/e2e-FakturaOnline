@@ -1,1 +1,1 @@
-# e2e-fakturaOnline
+#Design test scenarios in Cypress.
